@@ -1,5 +1,5 @@
 {
-    "name": "servo4",
+    "name": "servo",
     "description": "A large micro-servo library",
     "dependencies": {
         "core": "*"
