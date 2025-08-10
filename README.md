@@ -1,2 +1,2 @@
-# servo4
-Four-servo control in MakeCode
+# servo
+Multiple-servo control in MakeCode
