@@ -8,7 +8,7 @@
         "README.md",
         "servo.ts",
         "ns.ts",
-        "targetoverrides.ts"
+        "mytarget.ts"
     ],
     "public": true,
     "targetVersions": {
