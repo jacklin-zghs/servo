@@ -1,0 +1,20 @@
+{
+    "name": "servo4",
+    "description": "A large micro-servo library",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "servo.ts",
+        "ns.ts",
+        "targetoverrides.ts"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "8.0.15",
+        "pxt": "12.0.16"
+    },
+    //"icon": "https://cdn.makecode.com/blob/7ae30013e6ae7975b5686d614d701fa1e8821768/static/libs/servo.png"
+    "icon":"https://drive.google.com/file/d/1dDbl0FoeluuxywfSRhtc6Inb9_cqckBg/view"
+}
